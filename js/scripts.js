@@ -1,10 +1,8 @@
 function getTriangleArea (a, h) {
 
-	var score;
-	
 	if ( (a > 0) && (h > 0) ) {
     	
-    	score = a * h / 2;
+    	var score = a * h / 2;
     
     } else { 
 		
